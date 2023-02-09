@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<script type="text/javascript">
+		console.log("січень");
+	</script>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript" src="script.js">
+		
+	</script>
+	<script type="text/javascript">
+		console.log("лютий");
+		var k=confirm("Повнолітній?");
+		console.log(k[1]);
+	var	m=prompt("Введіть свій вік", );
+	console.log(m);
+	//ініціалізація
+	let age=19;
+	//оголошення
+	let age=2;
+	</script>
+	<p>KN-46</p>
+
+	<p>KN-46</p>
+	<p>KN-46</p>
+	
+	<p>KN-46</p>
+
+
+	<script type="text/javascript">
+		console.log("квітень");
+	</script>
+</body>
+</html>
