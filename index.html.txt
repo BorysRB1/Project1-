@@ -8,12 +8,13 @@
 	<title></title>
 </head>
 <body>
+        <p>GG</p>
 	<script type="text/javascript" src="script.js">
 		
 	</script>
 	<script type="text/javascript">
 		console.log("лютий");
-		var k=confirm("Повнолітній?");
+		var k=confirm("Не повнолітній?");
 		console.log(k[1]);
 	var	m=prompt("Введіть свій вік", );
 	console.log(m);
